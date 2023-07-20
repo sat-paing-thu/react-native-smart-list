@@ -1,1 +1,1 @@
-# react-native-smart-list
+Smart List
